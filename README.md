@@ -1,4 +1,5 @@
 **Egyptian Car Plate System 🇪🇬**
+
 A simple yet effective Python project to simulate the Egyptian Vehicle Registration System. This project was created to practice Object-Oriented Programming (OOP) and Database Management.
 
 **Features**
